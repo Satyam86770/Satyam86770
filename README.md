@@ -19,8 +19,6 @@
 
 - 👨‍💻 Some of my projects are available at my [Github](https://github.com/Satyam86770?tab=repositories)
 
-- 📧 Mail me **satyam86770@gmail.com**
-
 
 <h1 align="center">🏅 My Tech-Stack:</h1>
 <p align="center">
